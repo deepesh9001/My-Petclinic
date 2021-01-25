@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.deepesh</groupId>
     <artifactId>my-petclinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>my-petclinic</name>
     <description>Pet clinic project</description>
     <properties>
@@ -58,7 +58,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:deepesh9001/my-petclinic.git</developerConnection>
-      <tag>0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
